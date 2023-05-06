@@ -2,6 +2,7 @@ class A
 {
 public static void main(String[] args)
 	{
-	System.out.print("Anupama");
+	System.out.println("Anupama");
+	System.out.println("Surendra"):
 	}
 }
